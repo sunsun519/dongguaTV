@@ -2,22 +2,6 @@
 
 这是一个经过全面重构和升级的现代流媒体聚合播放器，基于 Node.js 和 Vue 3 构建。相比原版，本作引入了 Netflix 风格的沉浸式 UI、TMDb 数据驱动的动态榜单、以及智能的多源聚合搜索功能。
 
-# 演示网站
-
-[https://ednovas.video](https://ednovas.video)
-
-# 截图
-
-<img width="2550" height="1224" alt="image" src="https://github.com/user-attachments/assets/e665b83f-a0de-4f80-afac-cace27bc05c9" />
-
-<img width="2550" height="1229" alt="image" src="https://github.com/user-attachments/assets/d07edb3d-6571-43a1-ab04-9e57a56caa73" />
-
-<img width="2550" height="1224" alt="image" src="https://github.com/user-attachments/assets/b681ccca-8350-49b2-ac17-2ef681a33644" />
-
-<img width="2550" height="1178" alt="image" src="https://github.com/user-attachments/assets/1c79df40-c90b-4374-8a00-7c6122892078" />
-
-<img width="2550" height="1229" alt="image" src="https://github.com/user-attachments/assets/787f7b50-be84-4b71-86ee-bdf711ee5c9d" />
-
 
 ## ✨ 核心特性 (Core Features)
 
